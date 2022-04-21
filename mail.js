@@ -27,7 +27,7 @@ function submitForm(e) {
     saveMessages(rent, price, product);
 
 console.log("data sumbitted");
-alert("data sumbitted");
+alert("data submitted successfully");
     
 
     //   reset the form
